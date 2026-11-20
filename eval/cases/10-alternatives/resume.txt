@@ -1,0 +1,2 @@
+Built Golang services deployed on GCP.
+Frontend in React. Android app in Kotlin. Data stored in MongoDB.

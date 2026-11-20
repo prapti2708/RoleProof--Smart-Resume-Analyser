@@ -1,0 +1,8 @@
+Requirements:
+• Python and SQL
+• Docker and Kubernetes
+• React.js with Node.js and PostgreSQL
+• Redis for caching
+• TypeScript is required.
+Preferred:
+• Terraform

@@ -1,0 +1,2 @@
+Python, SQL and Tableau are required.
+Docker is required.

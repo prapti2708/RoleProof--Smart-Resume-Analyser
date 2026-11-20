@@ -1,0 +1,2 @@
+Python, FastAPI, Terraform, Ansible and Grafana are required.
+Kubernetes is preferred.

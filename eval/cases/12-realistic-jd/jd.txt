@@ -1,0 +1,15 @@
+Job Title: Associate Software Engineer (2026 batch)
+Location: Gurugram (Hybrid)
+About the Role
+You will react quickly to production issues and go through code with senior engineers.
+In the spring we rotate interns across teams; the rest of the year you own a service.
+You should excel at communication and be eager to learn.
+What you'll need:
+- B.Tech/B.E. in CS/IT with 60% throughout
+- Solid grasp of Data Structures and OOPs concepts
+- Proficiency in at least one of Java, C++ or Python
+- Hands-on experience with REST APIs and MySQL/PostgreSQL
+- Exposure to cloud platforms (AWS/Azure) is an added advantage
+- Knowledge of Linux and shell scripting
+Benefits
+Health insurance, Gym, free meals.

@@ -1,0 +1,5 @@
+Python or Go is required.
+Experience with any of AWS, GCP or Azure.
+React/Redux experience required.
+Java/Kotlin required.
+Familiarity with MySQL, PostgreSQL, or MongoDB.

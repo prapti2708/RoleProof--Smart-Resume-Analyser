@@ -1,0 +1,6 @@
+EDUCATION
+B.Tech CSE, 2026 – 8.1 CGPA
+SKILLS
+Java, MySQL, Git, Data Structures, OOP
+PROJECTS
+Hostel complaint portal – Spring-style REST APIs in Java with a MySQL database.

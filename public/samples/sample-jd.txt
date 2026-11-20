@@ -1,0 +1,21 @@
+Software Development Engineer Intern – Placement Drive 2026
+About the role
+You will build internal tools used by thousands of students during placement season.
+
+Requirements:
+• Strong programming skills in Java or Python.
+• Experience with React.js or Vue is required.
+• Docker is required for packaging services.
+• Good understanding of SQL and REST APIs.
+• Must be comfortable with Git and code reviews.
+
+Preferred:
+• GitHub Actions experience is preferred.
+• Familiarity with TypeScript is a plus.
+• Exposure to Kubernetes would be great.
+• Jenkins or a similar CI tool is a bonus.
+
+No prior AWS experience is needed; we will train you on our cloud setup.
+
+About us
+We are a Bengaluru-based HR-tech company running Kafka and Go across our platform.

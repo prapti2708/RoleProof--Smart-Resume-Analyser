@@ -1,0 +1,2 @@
+Required: Kotlin, Android, Firebase and Jetpack Compose.
+Preferred: Flutter, scikit-learn.

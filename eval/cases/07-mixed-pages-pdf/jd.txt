@@ -1,0 +1,2 @@
+Requirements: pandas, NumPy, Power BI, TensorFlow and NLP.
+Preferred: Tableau.

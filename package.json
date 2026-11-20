@@ -1,0 +1,36 @@
+{
+  "name": "roleproof",
+  "version": "1.0.0",
+  "private": true,
+  "description": "RoleProof: evidence-based resume vs job description gap analysis with a 14-day learning plan.",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "start": "tsx src/server/index.ts",
+    "dev": "node scripts/build.mjs && tsx src/server/index.ts",
+    "test": "node --import tsx --test tests/*.test.ts",
+    "eval": "tsx eval/run.ts",
+    "typecheck": "tsc -p tsconfig.json --noEmit",
+    "fixtures": "python3 scripts/make_fixtures.py",
+    "e2e": "node scripts/e2e.mjs",
+    "typecheck:node": "tsc -p tsconfig.node.json --noEmit"
+  },
+  "dependencies": {
+    "pdfjs-dist": "^6.2.108",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "tsx": "^4.23.12"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.3",
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0",
+    "esbuild": "^0.28.2",
+    "playwright": "^1.63.0",
+    "tailwindcss": "^4.3.3",
+    "typescript": "^6.0.3"
+  }
+}

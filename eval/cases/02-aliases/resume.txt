@@ -1,0 +1,2 @@
+Skills: NodeJS, Postgres, K8s, JS, C
+Projects: Placement tracker in React.js with an Express.js API.

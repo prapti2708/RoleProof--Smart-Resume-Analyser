@@ -1,0 +1,4 @@
+Java and Spring Boot are required.
+MySQL and Docker are required.
+Kubernetes is preferred.
+AWS EC2 experience is a plus.

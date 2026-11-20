@@ -1,0 +1,4 @@
+Experience with React.js or Vue is required.
+Docker is required for packaging services.
+GitHub Actions experience is preferred.
+No prior AWS experience is needed.

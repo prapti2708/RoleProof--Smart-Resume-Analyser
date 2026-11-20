@@ -1,0 +1,4 @@
+Required: Node.js, PostgreSQL, Kubernetes and JavaScript.
+Must know Java.
+C# and C++ experience is required.
+Experience with ReactJS is a must.

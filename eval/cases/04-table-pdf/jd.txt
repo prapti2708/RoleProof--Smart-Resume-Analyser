@@ -1,0 +1,2 @@
+Must have: TypeScript, Express.js, GitHub Actions, Docker, MongoDB.
+Nice to have: Redis, GraphQL, Jest.

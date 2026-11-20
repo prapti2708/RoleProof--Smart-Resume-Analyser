@@ -1,0 +1,5 @@
+No prior Kubernetes experience needed.
+AWS knowledge is not required.
+Docker is required, but no Terraform experience is needed.
+You don't need to know GraphQL.
+Python is required.
